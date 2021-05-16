@@ -1,0 +1,10 @@
+# dependencies
+/node_modules
+node_modules/
+
+# misc
+.env
+/config/config.env
+
+# production
+/client/build
